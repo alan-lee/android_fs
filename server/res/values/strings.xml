@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android File Server</string>
+	<string name="host_label">Host: </string>
+	<string name="port_label">Port:</string>
+	<string name="default_port">17593</string>
+	<string name="start_button">Start</string>
+	<string name="stop_button">Stop</string>
+	<string name="refresh_button">Refresh</string>
+	<string name="mount_tip_format">Use the following command to mount on client: rfs_mount mount_point -h=%1$s -p=%2$d</string>
+	<string name="no_network_tip">No WLAN connection.</string>
+</resources>
